@@ -1,0 +1,3 @@
+Cohen's f: http://en.wikipedia.org/wiki/Effect_size#Cohen.27s_.C6.922
+
+eta² example data: http://egret.psychol.cam.ac.uk/statistics/local_copies_of_sources_Cardinal_and_Aitken_ANOVA/glm_effectsize.htm
