@@ -1,2 +1,6 @@
-.DS_Store
-
+eeg/
+raw data/
+plots/
+*.RData
+*.kate-swp
+*.rkward_autosave
